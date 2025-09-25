@@ -1,0 +1,37 @@
+# Python, env
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+*.egg-info/
+
+# Virtual env
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets & env
+.env
+.env.*.local
+
+# Data and models (don't push large or sensitive data)
+data/raw/
+data/processed/
+data/realtime/
+models/
+
+# Logs, outputs
+*.log
+reports/
+*.sqlite3
+
+# Streamlit / caches
+.streamlit/

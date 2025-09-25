@@ -1,0 +1,51 @@
+transaction_id,date,amount,type,description,mode,category
+1,2024-09-01,450.00,debit,Swiggy Order #12345,UPI,Food
+2,2024-09-02,799.00,debit,Netflix subscription card,Card,Subscription
+3,2024-09-03,15000.00,credit,Salary Sept,Netbanking,Income
+4,2024-09-05,320.00,debit,Uber Ride 0987,Card,Transport
+5,2024-09-07,1200.00,debit,Amazon sale order 5678,Card,Shopping
+6,2024-09-08,200.00,debit,Coffee at Starbucks,UPI,Food
+7,2024-09-09,500.00,debit,Flipkart order 1122,Card,Shopping
+8,2024-09-10,350.00,debit,Zomato Food Delivery,UPI,Food
+9,2024-09-11,6000.00,credit,Freelance Project Payment,Netbanking,Income
+10,2024-09-12,700.00,debit,Spotify Subscription,Card,Subscription
+11,2024-09-13,450.00,debit,Domino's Pizza Order,UPI,Food
+12,2024-09-14,1500.00,debit,BigBasket Grocery,UPI,Groceries
+13,2024-09-15,300.00,debit,Paytm Movie Tickets,UPI,Entertainment
+14,2024-09-16,900.00,debit,Ola Cab Ride,UPI,Transport
+15,2024-09-17,200.00,debit,Starbucks Coffee,UPI,Food
+16,2024-09-18,1200.00,debit,Amazon Shopping,Card,Shopping
+17,2024-09-19,500.00,debit,Swiggy Order,UPI,Food
+18,2024-09-20,8000.00,credit,Salary Bonus,Netbanking,Income
+19,2024-09-21,1000.00,debit,Flipkart Electronics,Card,Shopping
+20,2024-09-22,300.00,debit,Zomato Food Delivery,UPI,Food
+21,2024-09-23,450.00,debit,Domino's Pizza,UPI,Food
+22,2024-09-24,400.00,debit,Paytm Recharge,UPI,Utilities
+23,2024-09-25,1200.00,debit,BigBasket Grocery,UPI,Groceries
+24,2024-09-26,150.00,debit,Starbucks Coffee,UPI,Food
+25,2024-09-27,800.00,debit,Netflix Subscription,Card,Subscription
+26,2024-09-28,300.00,debit,Ola Cab Ride,UPI,Transport
+27,2024-09-29,500.00,debit,Uber Ride,UPI,Transport
+28,2024-09-30,1000.00,debit,Flipkart Shopping,Card,Shopping
+29,2024-10-01,15000.00,credit,Salary Oct,Netbanking,Income
+30,2024-10-02,450.00,debit,Swiggy Food,UPI,Food
+31,2024-10-03,750.00,debit,Amazon Electronics,Card,Shopping
+32,2024-10-04,250.00,debit,Coffee Starbucks,UPI,Food
+33,2024-10-05,600.00,debit,Zomato Delivery,UPI,Food
+34,2024-10-06,500.00,debit,Ola Ride,UPI,Transport
+35,2024-10-07,1200.00,debit,BigBasket Grocery,UPI,Groceries
+36,2024-10-08,300.00,debit,Paytm Entertainment Tickets,UPI,Entertainment
+37,2024-10-09,400.00,debit,Spotify Subscription,Card,Subscription
+38,2024-10-10,450.00,debit,Domino's Pizza,UPI,Food
+39,2024-10-11,8000.00,credit,Freelance Project,Netbanking,Income
+40,2024-10-12,1500.00,debit,Flipkart Order,Card,Shopping
+41,2024-10-13,200.00,debit,Starbucks Coffee,UPI,Food
+42,2024-10-14,300.00,debit,Ola Cab Ride,UPI,Transport
+43,2024-10-15,900.00,debit,BigBasket Grocery,UPI,Groceries
+44,2024-10-16,400.00,debit,Netflix Subscription,Card,Subscription
+45,2024-10-17,500.00,debit,Uber Ride,UPI,Transport
+46,2024-10-18,250.00,debit,Coffee at Starbucks,UPI,Food
+47,2024-10-19,1000.00,debit,Amazon Shopping,Card,Shopping
+48,2024-10-20,15000.00,credit,Salary Payment,Netbanking,Income
+49,2024-10-21,350.00,debit,Zomato Order,UPI,Food
+50,2024-10-22,450.00,debit,Domino's Pizza,UPI,Food
